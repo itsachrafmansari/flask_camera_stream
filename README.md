@@ -7,8 +7,8 @@ interface, with OpenCV and Flask.
 ## Dependencies
 
 This program is based on :
-* [OpenCV](https://github.com/pytube/pytube) (Accessing the camera and encoding the stream frames)
-* [Flask](https://github.com/kkroening/ffmpeg-python) (Handling the web requests)
+* [OpenCV](https://github.com/opencv/opencv-python) (Accessing the camera and encoding the stream frames)
+* [Flask](https://github.com/pallets/flask) (Handling the web requests)
 
 You can install these dependencies using this command :
 ```Bash
